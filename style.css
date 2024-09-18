@@ -1,0 +1,41 @@
+*{margin: 0;
+    padding: 0;
+    box-sizing: border-box;}
+
+body{
+    background: #D5E1EF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+img{ 
+width: 240px;
+padding: 9px;
+border-radius: 18px;
+
+
+
+}
+.white{
+    background: white;
+    border-radius: 12px;
+    justify-items: center;
+    width: fit-content;
+    text-align: center;
+    padding: 4px 16px;
+    
+}
+
+p{
+    padding-bottom: 8px ;
+    font-size: 18px;
+    font-size: 14px;
+
+}
+.font{
+    font-size: 10px;
+    color: gray;
+    padding-bottom: 25px;
+}
